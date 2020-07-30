@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: e4c98774c9275ce40956cad73e1f9202
+timeCreated: 1503866370
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 5_-Material25.Material25_1_0_0
+    100002: 5_-Material27.Material27_1_0_0
+    100004: 5_-Material33(1).Material33(1)_1_0_0
+    100006: 5_-Material33(2).Material33(2)_1_0_0
+    100008: 5_-Material33(3).Material33(3)_1_0_0
+    100010: 5_-Material33(4).Material33(4)_1_0_0
+    100012: 5_-Material33(5).Material33(5)_1_0_0
+    100014: 5_-Material33(6).Material33(6)_1_0_0
+    100016: 5_-Material33(7).Material33(7)_1_0_0
+    100018: 5_-Material33.Material33_1_0_0
+    100020: 5_Material26_1_0_0
+    100022: 5_Material28(1)_1_0_0
+    100024: 5_Material28_1_0_0
+    100026: 5_Material29_1_0_0
+    100028: 5_Material30_1_0_0
+    100030: 5_Material31_1_0_0
+    100032: 5_Material32(1)_1_0_0
+    100034: 5_Material32_1_0_0
+    100036: arm left elbow
+    100038: arm left shoulder 1
+    100040: arm left wrist
+    100042: arm left wrist_end
+    100044: arm right elbow
+    100046: arm right shoulder 1
+    100048: arm right wrist
+    100050: arm right wrist_end
+    100052: Armature
+    100054: head neck lower
+    100056: head neck upper
+    100058: head neck upper_end
+    100060: leg left ankle
+    100062: leg left ankle_end
+    100064: leg left knee
+    100066: leg left thigh
+    100068: leg right ankle
+    100070: leg right ankle_end
+    100072: leg right knee
+    100074: leg right thigh
+    100076: //RootNode
+    100078: root ground
+    100080: root hips
+    100082: spine middle
+    100084: unused head hair back 1
+    100086: unused head hair back 2
+    100088: unused head hair back 3
+    100090: unused head hair back 4
+    100092: unused head hair back 4_end
+    100094: unused head hair front
+    100096: unused head hair front_end
+    100098: unused head hair left 1
+    100100: unused head hair left 2
+    100102: unused head hair left 3
+    100104: unused head hair left 3_end
+    100106: unused head hair right 1
+    100108: unused head hair right 2
+    100110: unused head hair right 3
+    100112: unused head hair right 3_end
+    100114: unused trash 01
+    100116: unused trash 02
+    100118: unused trash 03
+    100120: unused trash 03_end
+    100122: unused trash 04
+    100124: unused trash 04_end
+    100126: unused trash 05
+    100128: unused trash 05_end
+    100130: unused trash 06
+    100132: unused trash 06_end
+    100134: unused trash 08
+    100136: unused trash 11
+    100138: unused trash 12
+    100140: unused trash 12a
+    100142: unused trash 14
+    100144: unused trash 15
+    100146: unused trash 16
+    100148: unused trash 16_end
+    100150: unused trash 17
+    100152: unused trash 17_end
+    100154: unused trash 18
+    100156: unused trash 18_end
+    100158: unused trash 19
+    100160: unused trash 20
+    100162: unused trash 21
+    100164: unused trash 22
+    100166: unused trash 23
+    100168: unused trash 23_end
+    100170: unused trash 24
+    100172: unused trash 25
+    100174: unused trash 25_end
+    100176: unused trash 26
+    100178: unused trash 26_end
+    100180: unused trash 27
+    100182: unused trash 28
+    100184: unused trash 28_end
+    100186: unused trash 29
+    100188: unused trash 29_end
+    100190: unused trash 30
+    100192: unused trash 30_end
+    100194: unused trash 31
+    100196: unused trash 31_end
+    100198: unused trash 32
+    100200: unused trash 32_end
+    100202: unused trash 33
+    100204: unused trash 33_end
+    100206: unused trash 34
+    100208: unused trash 34_end
+    100210: unused trash 35
+    100212: unused trash 35_end
+    100214: unused trash 36
+    100216: unused trash 37
+    100218: unused trash 37_end
+    100220: unused trash 38
+    100222: unused trash 38_end
+    100224: unused trash 39
+    100226: unused trash 39_end
+    100228: unused trash 40
+    100230: unused trash 41
+    100232: unused trash 41_end
+    100234: unused trash 42
+    100236: unused trash 43
+    100238: unused trash 43_end
+    100240: unused trash 44
+    100242: unused trash 44_end
+    100244: unused trash 45
+    100246: unused trash 45_end
+    100248: unused trash 46
+    100250: unused trash 47
+    100252: unused trash 47_end
+    100254: unused trash 48
+    100256: unused trash 49
+    100258: unused trash 49_end
+    100260: unused trash 50
+    100262: unused trash 50_end
+    100264: unused trash 51
+    100266: unused trash 52
+    100268: unused trash 52_end
+    100270: unused trash back 1
+    100272: unused trash back 2
+    100274: unused trash back 3
+    100276: unused trash back 3_end
+    100278: unused trash front 1
+    100280: unused trash front 2
+    100282: unused trash front 3
+    100284: unused trash front 3_end
+    100286: unused trash left 1
+    100288: unused trash left 2
+    100290: unused trash left 3
+    100292: unused trash left 3_end
+    100294: unused trash right 1
+    100296: unused trash right 2
+    100298: unused trash right 3
+    100300: unused trash right 3_end
+    400000: 5_-Material25.Material25_1_0_0
+    400002: 5_-Material27.Material27_1_0_0
+    400004: 5_-Material33(1).Material33(1)_1_0_0
+    400006: 5_-Material33(2).Material33(2)_1_0_0
+    400008: 5_-Material33(3).Material33(3)_1_0_0
+    400010: 5_-Material33(4).Material33(4)_1_0_0
+    400012: 5_-Material33(5).Material33(5)_1_0_0
+    400014: 5_-Material33(6).Material33(6)_1_0_0
+    400016: 5_-Material33(7).Material33(7)_1_0_0
+    400018: 5_-Material33.Material33_1_0_0
+    400020: 5_Material26_1_0_0
+    400022: 5_Material28(1)_1_0_0
+    400024: 5_Material28_1_0_0
+    400026: 5_Material29_1_0_0
+    400028: 5_Material30_1_0_0
+    400030: 5_Material31_1_0_0
+    400032: 5_Material32(1)_1_0_0
+    400034: 5_Material32_1_0_0
+    400036: arm left elbow
+    400038: arm left shoulder 1
+    400040: arm left wrist
+    400042: arm left wrist_end
+    400044: arm right elbow
+    400046: arm right shoulder 1
+    400048: arm right wrist
+    400050: arm right wrist_end
+    400052: Armature
+    400054: head neck lower
+    400056: head neck upper
+    400058: head neck upper_end
+    400060: leg left ankle
+    400062: leg left ankle_end
+    400064: leg left knee
+    400066: leg left thigh
+    400068: leg right ankle
+    400070: leg right ankle_end
+    400072: leg right knee
+    400074: leg right thigh
+    400076: //RootNode
+    400078: root ground
+    400080: root hips
+    400082: spine middle
+    400084: unused head hair back 1
+    400086: unused head hair back 2
+    400088: unused head hair back 3
+    400090: unused head hair back 4
+    400092: unused head hair back 4_end
+    400094: unused head hair front
+    400096: unused head hair front_end
+    400098: unused head hair left 1
+    400100: unused head hair left 2
+    400102: unused head hair left 3
+    400104: unused head hair left 3_end
+    400106: unused head hair right 1
+    400108: unused head hair right 2
+    400110: unused head hair right 3
+    400112: unused head hair right 3_end
+    400114: unused trash 01
+    400116: unused trash 02
+    400118: unused trash 03
+    400120: unused trash 03_end
+    400122: unused trash 04
+    400124: unused trash 04_end
+    400126: unused trash 05
+    400128: unused trash 05_end
+    400130: unused trash 06
+    400132: unused trash 06_end
+    400134: unused trash 08
+    400136: unused trash 11
+    400138: unused trash 12
+    400140: unused trash 12a
+    400142: unused trash 14
+    400144: unused trash 15
+    400146: unused trash 16
+    400148: unused trash 16_end
+    400150: unused trash 17
+    400152: unused trash 17_end
+    400154: unused trash 18
+    400156: unused trash 18_end
+    400158: unused trash 19
+    400160: unused trash 20
+    400162: unused trash 21
+    400164: unused trash 22
+    400166: unused trash 23
+    400168: unused trash 23_end
+    400170: unused trash 24
+    400172: unused trash 25
+    400174: unused trash 25_end
+    400176: unused trash 26
+    400178: unused trash 26_end
+    400180: unused trash 27
+    400182: unused trash 28
+    400184: unused trash 28_end
+    400186: unused trash 29
+    400188: unused trash 29_end
+    400190: unused trash 30
+    400192: unused trash 30_end
+    400194: unused trash 31
+    400196: unused trash 31_end
+    400198: unused trash 32
+    400200: unused trash 32_end
+    400202: unused trash 33
+    400204: unused trash 33_end
+    400206: unused trash 34
+    400208: unused trash 34_end
+    400210: unused trash 35
+    400212: unused trash 35_end
+    400214: unused trash 36
+    400216: unused trash 37
+    400218: unused trash 37_end
+    400220: unused trash 38
+    400222: unused trash 38_end
+    400224: unused trash 39
+    400226: unused trash 39_end
+    400228: unused trash 40
+    400230: unused trash 41
+    400232: unused trash 41_end
+    400234: unused trash 42
+    400236: unused trash 43
+    400238: unused trash 43_end
+    400240: unused trash 44
+    400242: unused trash 44_end
+    400244: unused trash 45
+    400246: unused trash 45_end
+    400248: unused trash 46
+    400250: unused trash 47
+    400252: unused trash 47_end
+    400254: unused trash 48
+    400256: unused trash 49
+    400258: unused trash 49_end
+    400260: unused trash 50
+    400262: unused trash 50_end
+    400264: unused trash 51
+    400266: unused trash 52
+    400268: unused trash 52_end
+    400270: unused trash back 1
+    400272: unused trash back 2
+    400274: unused trash back 3
+    400276: unused trash back 3_end
+    400278: unused trash front 1
+    400280: unused trash front 2
+    400282: unused trash front 3
+    400284: unused trash front 3_end
+    400286: unused trash left 1
+    400288: unused trash left 2
+    400290: unused trash left 3
+    400292: unused trash left 3_end
+    400294: unused trash right 1
+    400296: unused trash right 2
+    400298: unused trash right 3
+    400300: unused trash right 3_end
+    4300000: 5_Material32_1_0_0
+    4300002: 5_Material32(1)_1_0_0
+    4300004: 5_Material31_1_0_0
+    4300006: 5_Material30_1_0_0
+    4300008: 5_Material29_1_0_0
+    4300010: 5_Material28_1_0_0
+    4300012: 5_Material28(1)_1_0_0
+    4300014: 5_Material26_1_0_0
+    4300016: 5_-Material33.Material33_1_0_0
+    4300018: 5_-Material33(7).Material33(7)_1_0_0
+    4300020: 5_-Material33(6).Material33(6)_1_0_0
+    4300022: 5_-Material33(5).Material33(5)_1_0_0
+    4300024: 5_-Material33(4).Material33(4)_1_0_0
+    4300026: 5_-Material33(3).Material33(3)_1_0_0
+    4300028: 5_-Material33(2).Material33(2)_1_0_0
+    4300030: 5_-Material33(1).Material33(1)_1_0_0
+    4300032: 5_-Material27.Material27_1_0_0
+    4300034: 5_-Material25.Material25_1_0_0
+    9500000: //RootNode
+    13700000: 5_-Material25.Material25_1_0_0
+    13700002: 5_-Material27.Material27_1_0_0
+    13700004: 5_-Material33(1).Material33(1)_1_0_0
+    13700006: 5_-Material33(2).Material33(2)_1_0_0
+    13700008: 5_-Material33(3).Material33(3)_1_0_0
+    13700010: 5_-Material33(4).Material33(4)_1_0_0
+    13700012: 5_-Material33(5).Material33(5)_1_0_0
+    13700014: 5_-Material33(6).Material33(6)_1_0_0
+    13700016: 5_-Material33(7).Material33(7)_1_0_0
+    13700018: 5_-Material33.Material33_1_0_0
+    13700020: 5_Material26_1_0_0
+    13700022: 5_Material28(1)_1_0_0
+    13700024: 5_Material28_1_0_0
+    13700026: 5_Material29_1_0_0
+    13700028: 5_Material30_1_0_0
+    13700030: 5_Material31_1_0_0
+    13700032: 5_Material32(1)_1_0_0
+    13700034: 5_Material32_1_0_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
